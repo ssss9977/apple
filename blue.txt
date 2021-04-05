@@ -1,0 +1,26 @@
+
+STS0329플젝
+src/main/java
+  |- net.hb.blog블로그변경
+src/main/resources
+  |- config.mybatis팩키지
+      |-board.xml
+      |-SqlMapConfig.xml
+      |-복붙 dao-context.xml
+  |- db.properties
+src/main/resources
+  |-index.jsp단독실행 
+  |-resources
+     |-upload폴더
+  |-WEB-INF
+     |-views/boardWrite.jsp,home.jsp,boardList.jsp
+pom.xml문서 영림쌤이랑 같이했어요
+
+     STS0329플젝
+      hobby테이블그대로 사용 
+      신규등록해서 저장할때 파일업로드까지 , 전체출력출력 
+      페이징X, 검색x, 댓글x
+      한건상세X, 삭제x, 수정x
+
+
+
